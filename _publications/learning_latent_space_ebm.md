@@ -2,8 +2,7 @@
 title: "Learning latent space energy-based prior model"
 collection: publications
 permalink: /publications/learning_latent_space_ebm
-venue: "The 34th Conference on Neural Information Processing Systems (NeurIPS 2020)"
-date: 2020-9-30
+venue: "NeurIPS 2020"
 citation: '<b>Bo Pang</b>, Tian Han, Erik Nijkamp, Song-Chun Zhu, and Ying Nian Wu. <b>NeurIPS 2020</b>.'
 ---
 
