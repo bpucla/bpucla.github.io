@@ -1,0 +1,11 @@
+---
+title: "Joint Training of Variational Auto-Encoder and Latent Energy-Based Model"
+collection: publications
+permalink: /publications/vae_ebm
+venue: "NeurIPS 2020"
+citation: 'Tian Han, Erik Nijkamp, Linqi Zhou, <b>Bo Pang</b>, Song-Chun Zhu, and Ying Nian Wu. <b>CVPR 2020</b>.'
+---
+
+
+## Abstract
+This paper proposes a joint training method to learn both the variational auto-encoder (VAE) and the latent energy-based model (EBM). The joint training of VAE and latent EBM are based on an objective function that consists of three Kullback-Leibler divergences between three joint distributions on the latent vector and the image, and the objective function is of an elegant symmetric and anti-symmetric form of divergence triangle that seamlessly integrates variational and adversarial learning. In this joint training scheme, the latent EBM serves as a critic of the generator model, while the generator model and the inference model in VAE serve as the approximate synthesis sampler and inference sampler of the latent EBM. Our experiments show that the joint training greatly improves the synthesis quality of the VAE. It also enables learning of an energy function that is capable of detecting out of sample examples for anomaly detection.
