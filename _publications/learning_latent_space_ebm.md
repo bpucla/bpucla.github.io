@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/learning_latent_space_ebm
 venue: "The 34th Conference on Neural Information Processing Systems (NeurIPS 2020)"
 date: 2020-9-30
-citation: 'Bo Pang, Tian Han, Erik Nijkamp, Song-Chun Zhu, and Ying Nian Wu. <i>The 34th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2020</b>.'
+citation: '<b>Bo Pang</b>, Tian Han, Erik Nijkamp, Song-Chun Zhu, and Ying Nian Wu. <b>NeurIPS 2020</b>.'
 ---
 
 
