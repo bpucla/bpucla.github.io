@@ -1,7 +1,7 @@
 ---
 title: "Towards Holistic and Automatic Evaluation of Open-Domain Dialogue Generation"
 collection: publications
-permalink: /publications/learning_latent_space_ebm
+permalink: /publications/holistic_eval
 venue: "ACL 2020"
 citation: '<b>Bo Pang</b>, Erik Nijkamp, Wenjuan Han, Linqi Zhou, Yixian Liu, Kewei Tu. <b>ACL 2020</b>.'
 ---
