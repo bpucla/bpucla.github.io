@@ -1,5 +1,5 @@
 ---
-title: "Learning multi-layer latent variable model via variational optimization of short run MCMC for approximate inference"
+title: "Learning Multi-Layer Latent Variable Model via Variational Optimization of Short Run MCMC for Approximate Inference"
 collection: publications
 permalink: /publications/learn_multilayer_short_run
 venue: "ECCV 2020"
