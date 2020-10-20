@@ -1,5 +1,5 @@
 ---
-title: "Learning latent space energy-based prior model"
+title: "Learning Latent Space Energy-Based Prior Model"
 collection: publications
 permalink: /publications/learning_latent_space_ebm
 venue: "NeurIPS 2020"
