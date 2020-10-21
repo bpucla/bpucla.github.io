@@ -5,11 +5,11 @@ author_profile: true
 ---
 
 <br>
-<b>[Learning Latent Space Energy-Based Prior Model](https://bpucla.github.io/publications/learning_latent_space_ebm)</b> <br> 
+<b>[Learning Latent Space Energy-Based Prior Model](https://bpucla.github.io/latent-space-ebm-prior-project/)</b> <br> 
 <b>Bo Pang</b>, Tian Han, Erik Nijkamp, Song-Chun Zhu, and Ying Nian Wu.<br> 
 <b>NeurIPS 2020</b>.
 
-<b>[Learning Multi-Layer Latent Variable Model via Variational Optimization of Short Run MCMC for Approximate Inference](https://bpucla.github.io/publications/learn_multilayer_short_run)</b> <br> 
+<b>[Learning Multi-Layer Latent Variable Model via Variational Optimization of Short Run MCMC for Approximate Inference](https://enijkamp.github.io/project_short_run_inference/)</b> <br> 
 Erik Nijkamp, <b>Bo Pang</b>, Linqi Zhou, Tian Han, Song-Chun Zhu, and Ying Nian Wu.<br> 
 <b>ECCV 2020</b>.
 
@@ -18,6 +18,6 @@ Erik Nijkamp, <b>Bo Pang</b>, Linqi Zhou, Tian Han, Song-Chun Zhu, and Ying Nian
 <b>ACL 2020</b>.
 
 
-<b>[Joint Training of Variational Auto-Encoder and Latent Energy-Based Model](https://bpucla.github.io/publications/vae_ebm)</b> <br> 
+<b>[Joint Training of Variational Auto-Encoder and Latent Energy-Based Model](https://hthth0801.github.io/jointLearning/)</b> <br> 
 Tian Han, Erik Nijkamp, Linqi Zhou, <b>Bo Pang</b>, Song-Chun Zhu, and Ying Nian Wu.<br> 
 <b>CVPR 2020</b>.
