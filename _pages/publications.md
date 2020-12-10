@@ -24,8 +24,8 @@ Tian Han, Erik Nijkamp, Linqi Zhou, <b>Bo Pang</b>, Song-Chun Zhu, and Ying Nian
 
 <b>[Learning Latent Space Energy-Based Prior Model for Molecule Generation](https://arxiv.org/pdf/2010.09351.pdf)</b> <br> 
 <b>Bo Pang</b>, Tian Han, and Ying Nian Wu.<br> 
-<b>NeurIPS 2020</b>.
+<b>NeurIPS Workshop 2020</b>.
 
 <b>[Semi-supervised Learning by Latent Space Energy-Based Model of Symbol-Vector Coupling](https://arxiv.org/pdf/2010.09359.pdf)</b> <br> 
 <b>Bo Pang</b>, Erik Nijkamp, Jian Cui, Tian Han, and Ying Nian Wu.<br> 
-<b>NeurIPS 2020</b>.
+<b>NeurIPS Workshop 2020</b>.
