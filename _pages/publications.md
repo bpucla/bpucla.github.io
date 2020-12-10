@@ -1,5 +1,5 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=s9fNEVEAAAAJ&hl=en)"
+title: "Selected Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=s9fNEVEAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
@@ -21,3 +21,14 @@ Erik Nijkamp, <b>Bo Pang</b>, Linqi Zhou, Tian Han, Song-Chun Zhu, and Ying Nian
 <b>[Joint Training of Variational Auto-Encoder and Latent Energy-Based Model](https://arxiv.org/pdf/2006.06059.pdf)</b> <br> 
 Tian Han, Erik Nijkamp, Linqi Zhou, <b>Bo Pang</b>, Song-Chun Zhu, and Ying Nian Wu.<br> 
 <b>CVPR 2020</b>.
+
+<br>
+<b>[Semi-supervised Learning by Latent Space
+Energy-Based Model of Symbol-Vector Coupling](https://arxiv.org/pdf/2010.09359.pdf)</b> <br> 
+<b>Bo Pang</b>, Erik Nijkamp, Jian Cui, Tian Han, and Ying Nian Wu.<br> 
+<b>NeurIPS 2020</b>.
+
+<br>
+<b>[Learning Latent Space Energy-Based Prior Model for Molecule Generation](https://arxiv.org/pdf/2010.09351.pdf)</b> <br> 
+<b>Bo Pang</b>, Tian Han, and Ying Nian Wu.<br> 
+<b>NeurIPS 2020</b>.
