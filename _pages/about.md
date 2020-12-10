@@ -15,7 +15,6 @@ I am a PhD student in the Department of Statistics at UCLA, advised by Prof. [Yi
 My research interests lie in the general area of machine learning, particularly in generative modeling, representational learning, and unsupervised learning, and their applications in computer vision, natural language modeling.   
 
 <br>
-<br>
 
 ### Selected Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=s9fNEVEAAAAJ&hl=en)
 
