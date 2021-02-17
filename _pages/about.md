@@ -21,7 +21,7 @@ My research interests lie in the general area of machine learning, particularly 
 <b>Bo Pang</b>, Tian Han, Erik Nijkamp, Song-Chun Zhu, and Ying Nian Wu.<br> 
 <b>NeurIPS 2020</b>.
 
-[Generative Text Modeling through Short Run Inference] <br> 
+[Generative Text Modeling through Short Run Inference](https://github.com/bpucla/bpucla.github.io/blob/master/files/Generative_Text_Modeling_through_Short_Run_Inference_EACL_camera_ready.pdf)<br> 
 <b>Bo Pang</b>, Erik Nijkamp, Tian Han, and Ying Nian Wu.<br> 
 <b>EACL 2020</b>.
 
