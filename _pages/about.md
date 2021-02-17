@@ -26,7 +26,7 @@ My research interests lie in the general area of machine learning, particularly 
 <b>EACL 2021</b>.
 
 [Learning Multi-Layer Latent Variable Model via Variational Optimization of Short Run MCMC for Approximate Inference](https://arxiv.org/pdf/1912.01909.pdf) <br> 
-Erik Nijkamp, <b>Bo Pang</b>, Linqi Zhou, Tian Han, Song-Chun Zhu, and Ying Nian Wu.<br> 
+Erik Nijkamp\*, <b>Bo Pang\*</b>, Linqi Zhou, Tian Han, Song-Chun Zhu, and Ying Nian Wu.<br> 
 <b>ECCV 2020</b>.
 
 [Towards Holistic and Automatic Evaluation of Open-Domain Dialogue Generation](https://www.aclweb.org/anthology/2020.acl-main.333.pdf) <br> 
