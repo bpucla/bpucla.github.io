@@ -19,24 +19,24 @@ My research interests lie in the general area of machine learning, particularly 
 
 [Learning Latent Space Energy-Based Prior Model](https://papers.nips.cc/paper/2020/file/fa3060edb66e6ff4507886f9912e1ab9-Paper.pdf) <br> 
 <b>Bo Pang</b>, Tian Han, Erik Nijkamp, Song-Chun Zhu, and Ying Nian Wu.<br> 
-<b>NeurIPS 2020</b>.
+<i>The 34th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2020</b>.
 
 [Generative Text Modeling through Short Run Inference](https://github.com/bpucla/bpucla.github.io/blob/master/files/Generative_Text_Modeling_through_Short_Run_Inference_EACL_camera_ready.pdf)<br> 
 <b>Bo Pang</b>, Erik Nijkamp, Tian Han, and Ying Nian Wu.<br> 
-<b>EACL 2021</b>.
+<i>The 16th Conference of the European Chapter of the Association for Computational Linguistics.</i> <b>EACL 2021</b>.
 
 [Learning Multi-Layer Latent Variable Model via Variational Optimization of Short Run MCMC for Approximate Inference](https://arxiv.org/pdf/1912.01909.pdf) <br> 
 Erik Nijkamp\*, <b>Bo Pang\*</b>, Linqi Zhou, Tian Han, Song-Chun Zhu, and Ying Nian Wu.<br> 
-<b>ECCV 2020</b>.
+<i>The 16th European Conference on Computer Vision.</i> <b>ECCV 2020</b>.
 
 [Towards Holistic and Automatic Evaluation of Open-Domain Dialogue Generation](https://www.aclweb.org/anthology/2020.acl-main.333.pdf) <br> 
 <b>Bo Pang</b>, Erik Nijkamp, Wenjuan Han, Linqi Zhou, Yixian Liu, and Kewei Tu.<br> 
-<b>ACL 2020</b>.
+<i>The 58th Annual Meeting of the Association for Computational Linguistics</i> <b>ACL 2020</b>.
 
 
 [Joint Training of Variational Auto-Encoder and Latent Energy-Based Model](https://arxiv.org/pdf/2006.06059.pdf) <br> 
 Tian Han, Erik Nijkamp, Linqi Zhou, <b>Bo Pang</b>, Song-Chun Zhu, and Ying Nian Wu.<br> 
-<b>CVPR 2020</b>.
+<i>The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2020.</i> <b>CVPR 2020</b>.
 
 [Learning Latent Space Energy-Based Prior Model for Molecule Generation](https://arxiv.org/pdf/2010.09351.pdf) <br> 
 <b>Bo Pang</b>, Tian Han, and Ying Nian Wu.<br> 
